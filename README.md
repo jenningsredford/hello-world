@@ -15,3 +15,8 @@ A map made from lidar derived surface elevations and made in ArcGIS Pro Spring 2
 ## My map image 
 
 ![Fayette Co Population Density](https://live.staticflickr.com/564/32726801546_3125d53cca_6k.jpg)
+
+## Kentucky outline
+
+![Kentucky Land Cover](ky-map.jpg)
+***Download [Georeferenced PDF](ky-map.pdf)***
